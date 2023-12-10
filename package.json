@@ -1,0 +1,17 @@
+{
+  "name": "@bozkurtdev/chatbot",
+  "version": "1.0.1",
+  "description": "Basit bir şekilde chatbot oluşturmaya yarar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chatbot",
+    "customchatbot",
+    "chat",
+    "bot"
+  ],
+  "author": "Fhyrox",
+  "license": "MIT"
+}
